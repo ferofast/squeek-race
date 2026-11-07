@@ -3,6 +3,10 @@
 Predict the Squeekchain hamster's next round. A Genesis Code project for
 Squeekchain (squeekchain.com/genesis/code).
 
+## Play it live
+
+https://muse.ai/s/hamster-round-prediction-game-xhf6hexdav5od/9kKPvJ-dL6CPvhpUEFgT6vL3nl-mhZx6b5HTgXiWZf0
+
 ## How it works
 
 Every Squeekchain round settles on-chain with a work total. Before the next

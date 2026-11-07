@@ -36,3 +36,7 @@ No data is invented. This is Sepolia testnet data.
 ## Run it
 
 Open `index.html` in a browser. No build step, no keys, no wallet needed.
+
+## Squeekchain Genesis Code
+
+squeekchain-project: f74e971e-85e7-417c-ace3-10f588ba7ada
